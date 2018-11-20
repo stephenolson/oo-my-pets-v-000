@@ -22,6 +22,10 @@ class Owner
   def self.count
     
   end
+  
+  def self.reset
+    
+  end
     
     
   
