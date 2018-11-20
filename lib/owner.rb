@@ -11,11 +11,15 @@ class Owner
     @@all << self
   end
   
+  def say_species
+    
+  
   def self.all
     @@all
   end
   
-  def self.all.size
+  def self.count
+    
     
   
   
